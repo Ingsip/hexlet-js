@@ -1,10 +1,8 @@
-//import _ from "lodash";
+// import _ from "lodash";
 
-//console.log("Hello, Hexlet!");
-//console.log(_.last(["one", "two"]));
-
+// console.log("Hello, Hexlet!");
+// console.log(_.last(["one", "two"]));
 
 import { last } from './src/index.js';
 
-console.log(last(["one", "two", "6"]));
-
+console.log(last(['one', 'two', '6']));
